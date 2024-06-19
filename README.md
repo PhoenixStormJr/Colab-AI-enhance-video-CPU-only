@@ -9,3 +9,9 @@ https://colab.research.google.com/github/eugenesiow/super-image-notebooks/blob/m
 
 (This actually worked)
 https://colab.research.google.com/github/rizzlogy/RealESRGAN-GColab/blob/main/RealESRGAN_GColab.ipynb#scrollTo=Cv7brAWXLKFF
+
+# Translated notebooks
+
+source:
+
+https://github.com/detektor777/colab_list/tree/main
