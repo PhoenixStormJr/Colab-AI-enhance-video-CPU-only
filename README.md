@@ -28,7 +28,7 @@ https://github.com/detektor777/colab_list/tree/main
 
 [InstColorization.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/InstColorization_translated.ipynb)
 
-[Real_ESRGAN_video.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/Real_ESRGAN_translated_video.ipynb)
+[Real_ESRGAN_video.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/Real_ESRGAN_video_translated.ipynb)
 
 [nafnet_video_continue_new_buffer.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/nafnet_video_continue_new_buffer_translated.ipynb)
 
