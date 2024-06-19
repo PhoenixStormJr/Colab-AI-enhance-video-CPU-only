@@ -18,18 +18,16 @@ https://github.com/detektor777/colab_list/tree/main
 
 
 
-DAIN.ipynb
+[DAIN.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/DAIN_translated.ipynb)
 
-EZ_DAIN.ipynb
+[EZ_DAIN.ipynb](https://colab.research.google.com/github/detektor777/colab_list/blob/main/EZ_DAIN.ipynb)
 
-InstColorization.ipynb
+[InstColorization.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/InstColorization_translated.ipynb)
 
-README.md
+[Real_ESRGAN_video.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/Real_ESRGAN_translated_video.ipynb)
 
-Real_ESRGAN_video.ipynb
+[nafnet_video_continue_new_buffer.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/nafnet_video_continue_new_buffer_translated.ipynb)
 
-nafnet_video_continue_new_buffer.ipynb
+[sdxl_1_0_lora.ipynb](https://colab.research.google.com/github/detektor777/colab_list/blob/main/sdxl_1_0_lora.ipynb)
 
-sdxl_1_0_lora.ipynb
-
-whisper_upload.ipynb
+[whisper_upload.ipynb](https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/whisper_upload_translated.ipynb)
