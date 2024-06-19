@@ -15,3 +15,14 @@ https://colab.research.google.com/github/rizzlogy/RealESRGAN-GColab/blob/main/Re
 source:
 
 https://github.com/detektor777/colab_list/tree/main
+
+
+
+DAIN.ipynb \n
+EZ_DAIN.ipynb \n
+InstColorization.ipynb \n
+README.md \n
+Real_ESRGAN_video.ipynb \n
+nafnet_video_continue_new_buffer.ipynb \n
+sdxl_1_0_lora.ipynb \n
+whisper_upload.ipynb \n
