@@ -7,8 +7,9 @@ references:
 
 https://colab.research.google.com/github/eugenesiow/super-image-notebooks/blob/master/notebooks/Upscale_Images_with_Pretrained_super_image_Models.ipynb#scrollTo=DO7HmxaJ6ZpI
 
-(This actually worked)
-https://colab.research.google.com/github/rizzlogy/RealESRGAN-GColab/blob/main/RealESRGAN_GColab.ipynb#scrollTo=Cv7brAWXLKFF
+(I made my own where most of it is automated):
+
+https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/Image_Enhancement_with_Real_ESRGAN_Phoenix.ipynb
 
 # Translated notebooks
 
