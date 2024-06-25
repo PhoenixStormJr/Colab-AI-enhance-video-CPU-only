@@ -1,5 +1,5 @@
 # Colab-AI-enhance-video
-Work in progress. This will not require a GPU. No limit. In theory, I should still be able to achieve GPU performance on a CPU using multiple colab runtimes. Using Google Colab to enhance the quality of videos, by extracting the frames, and upscaling them, one by one. This is only a test repository so far.
+Work in progress. This will not require a GPU. No limit. In theory, I should still be able to achieve GPU performance on a CPU using multiple colab runtimes. I've found a way to merge the resources together. Using Google Colab to enhance the quality of videos, by extracting the frames, and upscaling them, one by one. This is only a test repository so far.
 
 references:
 
