@@ -15,6 +15,10 @@ Here's splitting into frames
 
 https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/Split_Into_Frames.ipynb
 
+Progress bar:
+
+https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/ProgressBar.ipynb
+
 # Translated notebooks
 
 source:
