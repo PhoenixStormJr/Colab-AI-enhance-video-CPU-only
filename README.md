@@ -1,4 +1,4 @@
-# Colab-AI-enhance-video
+# Colab-AI-enhance-video-CPU-only
 FINISHED finally! This program I made using Real-ESGRGAN enhances a full video! And the best part about it, is the program ONLY uses a CPU, meaning there's absolutely no limit to the length of video, or times you can use it! (OKAY, you might need to make a couple gmail accounts to get the maximum power.) And it has the same performance (or better, depending on how many sessions are connected), as a GPU.
 
 x2: https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/Enhance_Video_With_Only_CPU.ipynb
