@@ -34,7 +34,7 @@ https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enha
 
 Progress bar:
 
-https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/ProgressBar.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/Colab-AI-enhance-video-CPU-only/blob/main/ProgressBar_2.ipynb
 
 # Translated notebooks
 
