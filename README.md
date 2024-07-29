@@ -26,7 +26,7 @@ On second run: checks to see if the file "YourGoogleDrive/UpscaleVideo/OriginalO
 
 (I made my own where most of it is automated):
 
-https://colab.research.google.com/github/PhoenixStormJr/Unfinished-Colab-AI-enhance-video/blob/main/Image_Enhancement_with_Real_ESRGAN_Phoenix_2.ipynb
+https://colab.research.google.com/github/PhoenixStormJr/Colab-AI-enhance-video-CPU-only/blob/main/Image_Enhancement_with_Real_ESRGAN_Phoenix_3.ipynb
 
 Here's splitting into frames
 
