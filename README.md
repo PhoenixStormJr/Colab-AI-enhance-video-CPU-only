@@ -5,6 +5,10 @@ x2: https://colab.research.google.com/github/PhoenixStormJr/Colab-AI-enhance-vid
 
 x4: https://colab.research.google.com/github/PhoenixStormJr/Colab-AI-enhance-video-CPU-only/blob/main/Enhance_Video_With_Only_CPU_x4_4.ipynb
 
+(This program adds a bunch of nonsense in the root of your drive. Delete it with this):
+
+https://colab.research.google.com/github/PhoenixStormJr/Colab-AI-enhance-video-CPU-only/blob/main/DeleteRootDriveNonsense.ipynb
+
 Here's how it works.
 
 On first run:
